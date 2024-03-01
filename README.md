@@ -1,1 +1,1 @@
-# Permissions-in-Linux
+In this project scenario, I updated the file and directory permissions for the team members that have access to a project directory. The aim was to have grant permissions which reflect a level of authorization that align with the principle of least privilege for each individual team member.
